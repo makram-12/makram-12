@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Makram 👋
 
-<!--
-**makram-12/makram-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer who enjoys building clean, practical products from idea to deployment. I like working across the stack, turning rough requirements into reliable user experiences, and improving systems until they feel simple to use and easy to maintain.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build web applications end to end
+- Design and ship APIs, features, and integrations
+- Work on responsive UIs, performance, and developer experience
+- Care about code quality, maintainability, and shipping value fast
+
+## Tech I work with
+
+- Frontend: HTML, CSS, JavaScript, TypeScript, React
+- Backend: Node.js, Express, REST APIs
+- Databases: SQL, PostgreSQL, MongoDB
+- Tools: Git, GitHub, Docker, Linux
+
+## A little more about me
+
+- I like solving real problems with simple solutions
+- I enjoy learning new tools and improving workflows
+- I value collaboration, clarity, and strong product thinking
+
